@@ -5,11 +5,11 @@
 <h3>Central Nervous System</h3>
 <ul>
   <li>Brain</li>
-  <li>Spinal COrd</li>
+  <li>Spinal Cord</li>
 </ul>
 
 <h4>Brain</h4>
-<img src="brain.jpg" alt="brain" width="40px" height="50px">
+<img src="brain.jpg" alt="brain" width="20%" height="20%">
 <p>-<mark>receives and processes all of the information</mark> from all parts of the body.</p>
 
 <h4>Brain <q>Control Center</q></h4>
@@ -33,7 +33,7 @@
 </ul>
 
 <h4>Spinal Cord</h4>
-<img src="spinalcord.jpg" alt="spinal cord" width="40px" height="50px">
+<img src="spinalcord.jpg" alt="spinal cord" width="20%" height="20%">
 <p>-controls the<mark> entire organ system</mark> of the body</p>
 <li> about <mark>40-50cm</mark></li>
 <li><mark>connects</mark> the brain and the body</li>
