@@ -1,26 +1,6 @@
-<!DOCTYPE html.
+<!DOCTYPE html>
 <html>
-<head>
-<title> SCIENCE 10-QUARTER 3 </title>
-<style>
-
-h2 {
-  border: 3px solid #00bfb9; width:225px; height:30px;
-  background-color:#00bfb9;
-  color:white;
-  margin: auto;
-}
-
-h3 {
-  background-color: powderblue;
-}
-
-</style>
-</head>
-
-<body>
-<div class="bg">
-
+	<body>
 <h2> NERVOUS SYSTEM </h2>
 <h3>Central Nervous System</h3>
 <ul>
@@ -96,3 +76,6 @@ h3 {
 </div>
 </body>
 </html>
+	
+
+
