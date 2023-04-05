@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<body>
 <h2> NERVOUS SYSTEM </h2>
